@@ -4,9 +4,11 @@
     font-weight: bold;
     text-align: center;
     font-size: 100px;
+    padding: 100px;
 }
 
 .recipe-list {
     text-align: center; 
     font-size: 50px;
 }
+
